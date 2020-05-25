@@ -30,7 +30,7 @@ for(int i=0;i<s.getPhysicalNumberOfRows();i++) {
 		Cell c=r.getCell(j);
 		System.out.print(c+"    ");
 	}
-	System.out.println();
+	System.out.println("");
 	
 }
 
